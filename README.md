@@ -1,4 +1,4 @@
-# DOC334---Individual-Coursework
+# DOC334 - Individual Coursework
 
 A small classroom keeps track of student attendance with 2 tables in a database. One table keep student information such as student no, first name, last name, etx. while the second table keep track of the student no (which refers student number from the first table), a date and the attendance of the students.
 
